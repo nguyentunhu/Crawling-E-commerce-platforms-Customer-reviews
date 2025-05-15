@@ -10,4 +10,24 @@ This project collects comments from three different e-commerce platforms using S
 - Well-structured data organization.
 
 ## Project Structure
-`data/` (bot-detected_data.csv, cellphones.csv, tgdd.csv, tinhte.csv) | `logs/` (crawler.log) | `src/` (bot_detector.py, cellphones_crawler.py, logger.py, main.py, thegioididong_crawler.py, tinhte_crawler.py, utils.py) | `README.md`
+Crawling-E-commerce-platforms-Customer-reviews/
+│
+├── data/
+│   ├── bot-detected_data.csv
+│   ├── cellphones.csv
+│   ├── tgdd.csv
+│   ├── tinhte.csv
+│
+├── logs/
+│   ├── crawler.log
+│
+├── src/
+│   ├── bot_detector.py
+│   ├── cellphones_crawler.py
+│   ├── logger.py
+│   ├── main.py
+│   ├── thegioididong_crawler.py
+│   ├── tinhte_crawler.py
+│   ├── utils.py
+│
+├── README.md
