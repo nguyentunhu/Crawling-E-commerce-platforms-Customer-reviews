@@ -11,6 +11,7 @@ This project collects comments from three different e-commerce platforms using S
 
 ## Project Structure
 Crawling-E-commerce-platforms-Customer-reviews/
+
 │
 ├── data/
 │   ├── bot-detected_data.csv
