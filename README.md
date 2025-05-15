@@ -10,7 +10,9 @@ This project collects comments from three different e-commerce platforms using S
 - Well-structured data organization.
 
 ## Project Structure
+
 ├── data/
+
 │   ├── bot-detected_data.csv
 │   ├── cellphones.csv
 │   ├── tgdd.csv
