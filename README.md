@@ -12,8 +12,7 @@ This project collects comments from three different e-commerce platforms using S
 ## Project Structure
 
 ├── data/
-│   
-├── bot-detected_data.csv
+│   ├── bot-detected_data.csv
 │   ├── cellphones.csv
 │   ├── tgdd.csv
 │   ├── tinhte.csv
