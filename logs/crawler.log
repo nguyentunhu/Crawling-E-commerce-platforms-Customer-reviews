@@ -1,0 +1,176 @@
+2025-03-26 00:23:02,330 - INFO - ====== WebDriver manager ======
+2025-03-26 00:23:03,094 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:03,283 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:03,506 - INFO - Driver [C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe] found in cache
+2025-03-26 00:23:03,507 - INFO - Using WebDriver from: C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe
+2025-03-26 00:23:04,641 - INFO - ====== WebDriver manager ======
+2025-03-26 00:23:05,438 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:05,606 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:05,746 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:05,889 - INFO - About to download new driver from https://msedgedriver.azureedge.net/134.0.3124.83/edgedriver_win64.zip
+2025-03-26 00:23:06,074 - INFO - Driver downloading response is 200
+2025-03-26 00:23:13,466 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:13,674 - ERROR - Error setting up WebDriver: [WinError 5] Access is denied: 'C:\\Users\\nguye_6jm9urz\\.wdm\\drivers\\edgedriver\\win64\\134.0.3124.83\\Driver_Notes\\' -> 'C:\\Users\\nguye_6jm9urz\\.wdm\\drivers\\edgedriver\\win64\\134.0.3124.83\\'
+2025-03-26 00:23:13,676 - INFO - ====== WebDriver manager ======
+2025-03-26 00:23:14,449 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:14,606 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:14,757 - INFO - Driver [C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe] found in cache
+2025-03-26 00:23:14,757 - INFO - Using WebDriver from: C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe
+2025-03-26 00:23:17,485 - INFO - Starting comment crawling process.
+2025-03-26 00:23:17,485 - INFO - ====== WebDriver manager ======
+2025-03-26 00:23:18,411 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:18,559 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:23:18,698 - INFO - Driver [C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe] found in cache
+2025-03-26 00:23:18,698 - INFO - Using WebDriver from: C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe
+2025-03-26 00:23:21,374 - INFO - ----------------BEGIN CRAWLING FROM thegioididong.vn
+2025-03-26 00:23:21,374 - INFO - Navigating to page 1: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia
+2025-03-26 00:23:23,776 - INFO - Found 20 comment items on page
+2025-03-26 00:23:23,786 - INFO - Extracted 20 comments from page 1
+2025-03-26 00:23:23,812 - INFO - Found 5 pagination elements
+2025-03-26 00:23:26,813 - INFO - Navigating to page 2: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=2
+2025-03-26 00:23:28,319 - INFO - Found 20 comment items on page
+2025-03-26 00:23:28,333 - INFO - Extracted 20 comments from page 2
+2025-03-26 00:23:28,359 - INFO - Found 6 pagination elements
+2025-03-26 00:23:31,360 - INFO - Navigating to page 3: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=3
+2025-03-26 00:23:32,040 - INFO - Found 20 comment items on page
+2025-03-26 00:23:32,050 - INFO - Extracted 20 comments from page 3
+2025-03-26 00:23:32,078 - INFO - Found 6 pagination elements
+2025-03-26 00:23:35,078 - INFO - Navigating to page 4: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=4
+2025-03-26 00:23:36,048 - INFO - Found 20 comment items on page
+2025-03-26 00:23:36,060 - INFO - Extracted 20 comments from page 4
+2025-03-26 00:23:36,101 - INFO - Found 6 pagination elements
+2025-03-26 00:23:39,102 - INFO - Navigating to page 5: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=5
+2025-03-26 00:23:39,799 - INFO - Found 20 comment items on page
+2025-03-26 00:23:39,811 - INFO - Extracted 20 comments from page 5
+2025-03-26 00:23:39,838 - INFO - Found 6 pagination elements
+2025-03-26 00:23:42,839 - INFO - Navigating to page 6: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=6
+2025-03-26 00:23:44,779 - INFO - Found 20 comment items on page
+2025-03-26 00:23:44,789 - INFO - Extracted 20 comments from page 6
+2025-03-26 00:23:44,814 - INFO - Found 6 pagination elements
+2025-03-26 00:23:47,815 - INFO - Navigating to page 7: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=7
+2025-03-26 00:23:52,655 - INFO - Found 20 comment items on page
+2025-03-26 00:23:52,666 - INFO - Extracted 20 comments from page 7
+2025-03-26 00:23:52,691 - INFO - Found 6 pagination elements
+2025-03-26 00:23:55,692 - INFO - Navigating to page 8: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=8
+2025-03-26 00:23:56,783 - INFO - Found 20 comment items on page
+2025-03-26 00:23:56,795 - INFO - Extracted 20 comments from page 8
+2025-03-26 00:23:56,822 - INFO - Found 6 pagination elements
+2025-03-26 00:23:59,822 - INFO - Navigating to page 9: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=9
+2025-03-26 00:24:00,581 - INFO - Found 20 comment items on page
+2025-03-26 00:24:00,597 - INFO - Extracted 20 comments from page 9
+2025-03-26 00:24:00,623 - INFO - Found 6 pagination elements
+2025-03-26 00:24:03,624 - INFO - Navigating to page 10: https://www.thegioididong.com/dtdd/iphone-15-pro-max/danh-gia?page=10
+2025-03-26 00:24:04,957 - INFO - Found 20 comment items on page
+2025-03-26 00:24:04,969 - INFO - Extracted 20 comments from page 10
+2025-03-26 00:24:04,994 - INFO - Found 6 pagination elements
+2025-03-26 00:24:07,994 - INFO - Reached target count of 200 comments. Stopping.
+2025-03-26 00:24:07,995 - INFO - Total comments collected: 200
+2025-03-26 00:24:08,005 - INFO - Saved 200 comments to data/tgdd.csv
+2025-03-26 00:24:10,207 - INFO - CRAWLING FROM thegioididong.vn COMPLETED IN 52.72 SECONDS----------------
+
+2025-03-26 00:24:10,208 - INFO - ====== WebDriver manager ======
+2025-03-26 00:24:10,984 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:24:11,114 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:24:11,277 - INFO - Driver [C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe] found in cache
+2025-03-26 00:24:11,278 - INFO - Using WebDriver from: C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.83\msedgedriver.exe
+2025-03-26 00:24:13,910 - INFO - Navigating to main page: https://cellphones.com.vn/iphone-15-pro-max/review
+2025-03-26 00:24:17,343 - INFO - Found 5 comment items on page
+2025-03-26 00:24:17,346 - INFO - Extracted 5 initial comments
+2025-03-26 00:24:22,487 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:24:23,522 - INFO - Clicked 'Xem thêm' button (click #1)
+2025-03-26 00:24:26,604 - INFO - Found 10 comment items on page
+2025-03-26 00:24:26,607 - INFO - Loaded 5 new comments after click #1
+2025-03-26 00:24:26,607 - INFO - Total comments so far: 10
+2025-03-26 00:24:31,862 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:24:32,916 - INFO - Clicked 'Xem thêm' button (click #2)
+2025-03-26 00:24:36,019 - INFO - Found 15 comment items on page
+2025-03-26 00:24:36,023 - INFO - Loaded 5 new comments after click #2
+2025-03-26 00:24:36,023 - INFO - Total comments so far: 15
+2025-03-26 00:24:41,245 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:24:42,279 - INFO - Clicked 'Xem thêm' button (click #3)
+2025-03-26 00:24:45,377 - INFO - Found 20 comment items on page
+2025-03-26 00:24:45,381 - INFO - Loaded 5 new comments after click #3
+2025-03-26 00:24:45,381 - INFO - Total comments so far: 20
+2025-03-26 00:24:50,556 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:24:51,580 - INFO - Clicked 'Xem thêm' button (click #4)
+2025-03-26 00:24:54,678 - INFO - Found 25 comment items on page
+2025-03-26 00:24:54,684 - INFO - Loaded 5 new comments after click #4
+2025-03-26 00:24:54,684 - INFO - Total comments so far: 25
+2025-03-26 00:24:59,853 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:25:00,885 - INFO - Clicked 'Xem thêm' button (click #5)
+2025-03-26 00:25:03,991 - INFO - Found 30 comment items on page
+2025-03-26 00:25:03,998 - INFO - Loaded 5 new comments after click #5
+2025-03-26 00:25:03,998 - INFO - Total comments so far: 30
+2025-03-26 00:25:09,253 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:25:10,303 - INFO - Clicked 'Xem thêm' button (click #6)
+2025-03-26 00:25:13,426 - INFO - Found 35 comment items on page
+2025-03-26 00:25:13,433 - INFO - Loaded 5 new comments after click #6
+2025-03-26 00:25:13,434 - INFO - Total comments so far: 35
+2025-03-26 00:25:18,660 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:25:19,710 - INFO - Clicked 'Xem thêm' button (click #7)
+2025-03-26 00:25:22,828 - INFO - Found 40 comment items on page
+2025-03-26 00:25:22,841 - INFO - Loaded 5 new comments after click #7
+2025-03-26 00:25:22,841 - INFO - Total comments so far: 40
+2025-03-26 00:25:27,985 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:25:29,013 - INFO - Clicked 'Xem thêm' button (click #8)
+2025-03-26 00:25:32,137 - INFO - Found 45 comment items on page
+2025-03-26 00:25:32,147 - INFO - Loaded 5 new comments after click #8
+2025-03-26 00:25:32,147 - INFO - Total comments so far: 45
+2025-03-26 00:25:37,365 - INFO - Found 'Xem thêm' button with selector: a.load-more
+2025-03-26 00:25:38,390 - INFO - Clicked 'Xem thêm' button (click #9)
+2025-03-26 00:25:41,509 - INFO - Found 50 comment items on page
+2025-03-26 00:25:41,521 - INFO - Loaded 5 new comments after click #9
+2025-03-26 00:25:41,521 - INFO - Total comments so far: 50
+2025-03-26 00:26:02,022 - INFO - No 'Xem thêm' button found. Reached the end of comments.
+2025-03-26 00:26:02,022 - INFO - Total comments collected: 50
+2025-03-26 00:26:02,024 - INFO - Saved 50 comments to data/cellphones.csv
+2025-03-26 00:26:04,196 - INFO - Script completed in 113.99 seconds
+2025-03-26 00:26:04,196 - INFO - ----------------BEGIN CRAWLING FROM tinhte.vn
+2025-03-26 00:26:04,197 - INFO - ====== WebDriver manager ======
+2025-03-26 00:26:05,032 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:26:05,210 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:26:05,363 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:26:05,536 - INFO - About to download new driver from https://msedgedriver.azureedge.net/134.0.3124.83/edgedriver_win64.zip
+2025-03-26 00:26:05,715 - INFO - Driver downloading response is 200
+2025-03-26 00:26:16,968 - INFO - Get LATEST edgedriver version for Edge 134.0.3124
+2025-03-26 00:26:17,312 - INFO - Driver has been saved in cache [C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.85]
+2025-03-26 00:26:17,313 - INFO - Using WebDriver from: C:\Users\nguye_6jm9urz\.wdm\drivers\edgedriver\win64\134.0.3124.85\msedgedriver.exe
+2025-03-26 00:26:20,271 - INFO - Navigating to main page: https://tinhte.vn/thread/review-iphone-15-pro-max-1tb-van-la-smartphone-dinh-nhat-nhung-khong-con-nhieu-dieu-vui-ve.3769610/
+2025-03-26 00:26:34,998 - INFO - Found 70 on current page
+2025-03-26 00:26:38,586 - INFO - Extracted 70 comments from current page
+2025-03-26 00:26:38,586 - INFO - Extracted 70 comments from page 1
+2025-03-26 00:26:38,586 - INFO - Total comments collected: 70
+2025-03-26 00:26:38,586 - INFO - Navigating to main page: https://tinhte.vn/thread/review-iphone-15-pro-max-1tb-van-la-smartphone-dinh-nhat-nhung-khong-con-nhieu-dieu-vui-ve.3769610/page-2
+2025-03-26 00:26:47,190 - INFO - Found 34 on current page
+2025-03-26 00:26:49,234 - INFO - Extracted 34 comments from current page
+2025-03-26 00:26:49,234 - INFO - Extracted 34 comments from page 2
+2025-03-26 00:26:49,234 - INFO - Total comments collected: 104
+2025-03-26 00:26:49,235 - INFO - Navigating to main page: https://tinhte.vn/thread/review-iphone-15-pro-max-1tb-van-la-smartphone-dinh-nhat-nhung-khong-con-nhieu-dieu-vui-ve.3769610/page-3
+2025-03-26 00:26:54,910 - INFO - Found 25 on current page
+2025-03-26 00:26:56,733 - INFO - Extracted 25 comments from current page
+2025-03-26 00:26:56,733 - INFO - Extracted 25 comments from page 3
+2025-03-26 00:26:56,733 - INFO - Total comments collected: 129
+2025-03-26 00:26:56,733 - INFO - Navigating to main page: https://tinhte.vn/thread/review-iphone-15-pro-max-1tb-van-la-smartphone-dinh-nhat-nhung-khong-con-nhieu-dieu-vui-ve.3769610/page-4
+2025-03-26 00:27:02,295 - INFO - Found 35 on current page
+2025-03-26 00:27:04,126 - INFO - Extracted 35 comments from current page
+2025-03-26 00:27:04,126 - INFO - Extracted 35 comments from page 4
+2025-03-26 00:27:04,126 - INFO - Total comments collected: 164
+2025-03-26 00:27:04,126 - INFO - Navigating to main page: https://tinhte.vn/thread/review-iphone-15-pro-max-1tb-van-la-smartphone-dinh-nhat-nhung-khong-con-nhieu-dieu-vui-ve.3769610/page-5
+2025-03-26 00:27:10,774 - INFO - Found 34 on current page
+2025-03-26 00:27:12,607 - INFO - Extracted 34 comments from current page
+2025-03-26 00:27:12,607 - INFO - Extracted 34 comments from page 5
+2025-03-26 00:27:12,607 - INFO - Total comments collected: 198
+2025-03-26 00:27:12,607 - INFO - Navigating to main page: https://tinhte.vn/thread/review-iphone-15-pro-max-1tb-van-la-smartphone-dinh-nhat-nhung-khong-con-nhieu-dieu-vui-ve.3769610/page-6
+2025-03-26 00:27:18,310 - INFO - Found 21 on current page
+2025-03-26 00:27:19,805 - INFO - Extracted 21 comments from current page
+2025-03-26 00:27:19,805 - INFO - Extracted 21 comments from page 6
+2025-03-26 00:27:19,805 - INFO - Total comments collected: 219
+2025-03-26 00:27:19,807 - INFO - Saved 219 comments to data/tinhte.csv
+2025-03-26 00:27:22,073 - INFO - CRAWLING FROM tinhte.vn COMPLETED IN 77.88 SECONDS----------------
+
+2025-03-26 00:27:22,155 - INFO - Successfully merge datasets.
+2025-03-26 00:27:22,168 - INFO - Identify 41 repeated contents.
+2025-03-26 00:27:22,172 - INFO - Identify 0 comments containing URLs.
+2025-03-26 00:27:22,173 - INFO - Identify 0 comments by generic usernames.
+2025-03-26 00:27:22,176 - INFO - Successfully detect bot-generated comments.
+2025-03-26 00:27:22,176 - INFO - Crawling process completed.
