@@ -10,4 +10,22 @@ This project collects comments from three different e-commerce platforms using S
 - Well-structured data organization.
 
 ## Project Structure
-📂 E-Commerce-Comments-Scraper ├── 📂 data                  # Contains collected comment data │   ├── bot-detected_data.csv │   ├── cellphones.csv │   ├── tgdd.csv │   ├── tinhte.csv ├── 📂 logs                  # Log files documenting the scraping process │   ├── crawler.log ├── 📂 src                   # Source code files │   ├── bot_detector.py      # Bot detection logic │   ├── cellphones_crawler.py # Scraper for cellphones site │   ├── logger.py            # Logging utility │   ├── main.py              # Main execution script │   ├── thegioididong_crawler.py # Scraper for TGDD site │   ├── tinhte_crawler.py    # Scraper for Tinhte site │   ├── utils.py             # Helper functions ├── README.md                # Project documentation
+├── data/
+│   ├── bot-detected_data.csv
+│   ├── cellphones.csv
+│   ├── tgdd.csv
+│   ├── tinhte.csv
+│
+├── logs/
+│   ├── crawler.log
+│
+├── src/
+│   ├── bot_detector.py
+│   ├── cellphones_crawler.py
+│   ├── logger.py
+│   ├── main.py
+│   ├── thegioididong_crawler.py
+│   ├── tinhte_crawler.py
+│   ├── utils.py
+│
+├── README.md
